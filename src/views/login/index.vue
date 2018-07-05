@@ -43,7 +43,7 @@
 <style>
   .login {
     width:600px;
-    background-image:url(images/login.jpg);
+    background-image:url(../../source/images/login.jpg);
     background-size:cover;
     background-repeat:no-repeat;
     width:600px;text-align:center;

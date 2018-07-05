@@ -4,6 +4,7 @@ import App from '../App'
  */
 export default [
     {
+        mode:'history',
         path: '/',
         component: App,
         children: [
